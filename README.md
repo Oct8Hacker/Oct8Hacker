@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aryan Khadgi. Currently a sophomore at IIITB.
 - 👀 I’m interested in mostly anything which requires maths.
-- 💞️ I’m looking to collaborate on search engine algorithms.
 - 📫 How to reach me Aryan.Khadgi@iiitb.ac.in
 - 😄 Pronouns: he/him
 
